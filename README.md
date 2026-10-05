@@ -100,8 +100,8 @@ Open `EE314FINPROJ.qpf` in Intel Quartus (Lite), compile, and program the
 
 ## Authors
 
-- [Your name]
-- [Teammate 2]
-- [Teammate 3]
+- Armaghan Imran
+- Nasbat Nassor Al Jahwari
+- Ahmed M M Osman
 
 Term project for EE314, Middle East Technical University.
